@@ -40,7 +40,7 @@ function App() {
   };
 
   const handleWhatsAppClick = () => {
-    window.open('https://wa.me/254795704273', '_blank');
+    window.open('https://wa.me/254755295635', '_blank');
   };
 
   const handleEmailClick = () => {
@@ -48,11 +48,11 @@ function App() {
   };
 
   const handleWhatsApp = () => {
-    window.open('https://wa.me/254795704273', '_blank');
+    window.open('https://wa.me/254755295635', '_blank');
   };
 
   const handleEmail = () => {
-    window.open('mailto:frankyfreaky103@gmail.com', '_blank');
+    window.open('mailto:nexuscollective103@gmail.com', '_blank');
   };
 
   useEffect(() => {
@@ -167,7 +167,7 @@ function App() {
 
             <div className="space-y-6">
               <a
-                href="https://wa.me/254795704273"
+                href="https://wa.me/254755295635"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center p-6 bg-green-50 rounded-xl hover:bg-green-100 transition-all duration-300 group"
